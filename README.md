@@ -1,4 +1,4 @@
-# iOSAppNameParser
+
 iOS Application GUID Name Resolver
 Version 0.3
 
