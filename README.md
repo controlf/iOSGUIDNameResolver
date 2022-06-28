@@ -2,7 +2,7 @@
 iOS Application GUID Name Resolver
 
 
-Version 0.3
+Version 0.4
 
 It is hard for humans to navigate around a file system constructed of GUIDs, so lets resolve their friendly package names (plus some other metadata) for easy lookup.
 
